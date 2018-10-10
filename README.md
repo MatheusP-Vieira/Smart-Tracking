@@ -33,11 +33,11 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     
 A Empresa Smart-Tracking precisa inicialmente dos seguintes relatórios:
 * Relatório que informe quantas vezes o usuário dormiu bem e quantas vezes dormiu mal.
-* Relatório que informe quantas vezes o usuário fez um determinado percurso, tempo de viagem, distância e se foi concluido com sucesso.
+* Relatório que informe os batimentos cardiacos do usuário em uma janela de tempo.
 * Relatório que informe quantos passos o usuário deu em um intervalo x de tempo.
-* Relatório que informe quantos usuários dormiram mal em um intervalo x de tempo.
-* Relatório que informe quantos usuários tiveram seu percurso interrompido.
-* Relatório que informe quantos passos foram dados pelos usuários em um intervalo x de tempo.
+* Relatório que informe se o usuário dormiu mal em um intervalo x de tempo.
+* Relatório que informe se o usuário teve os batimentos acima ou abaixo do normal em um intevalo x de tempo.
+* Relatório que informe quantas vezes o usuário teve os batimentos acima e abaixo do normal.
  
  
 #### 4.2 TABELA DE DADOS DO SISTEMA:
